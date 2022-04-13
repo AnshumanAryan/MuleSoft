@@ -1,0 +1,15 @@
+Database created and Successfully Connected to SQLite
+SQLite Database Version is:  [('3.31.1',)]
+Command executed successfully
+('Lord Of the Rings', 'Elijah Wood', 'Liv Tyler', 2014, 'Peter Jackson', 'English')
+('The Dark Knight', 'Aaron Eckhart', 'Anne Hathaway', 2014, 'Christopher Nolan', 'English')
+('Inception', 'Leonardo Dicaprio', 'Marion', 2010, 'Christopher Nolan', 'English')
+('Naruto', 'Sasuke', 'Sakura', 2007, 'Hayato', 'Japanes')
+('Pirates of Caribbean', 'Johnny Depp', 'Keira Knightly', 2003, 'Gore Verbinski', 'English')
+('Attack on Titans', 'Levi', 'Historia Reiss', 2009, 'Shinji Higuchi', 'Korean')
+('Death Note ', 'Nat Wolff', 'Margaret Qualley', 2017, 'Adam Wingard', 'Japneese')
+('Harry Porter ', 'Daniel Radcliffe', 'Ema Watson', 2001, 'David Yates', 'English')
+
+
+Enter the actor name to print his movie:Daniel Radcliffe
+('Harry Porter ', 'Daniel Radcliffe', 'Ema Watson', 2001, 'David Yates', 'English')
